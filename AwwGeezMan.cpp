@@ -1,5 +1,6 @@
 //Author: Drew Deneke
 #include "Morty.hpp"
+#include<string.h>
 #include <iostream>
 #include <cstdlib>
 using namespace std;
